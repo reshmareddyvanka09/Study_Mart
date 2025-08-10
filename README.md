@@ -1,4 +1,4 @@
-# StudyMart – Academic Exchange Platform
+add all uk universities domain# StudyMart – Academic Exchange Platform
 
 **StudyMart** addresses the lack of a reliable, structured way for students to exchange academic resources. It enables peer-to-peer sharing, real-time communication, and trusted interactions within a secure academic network.
 
